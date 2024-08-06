@@ -1,0 +1,10 @@
+D:\Practice\Kimmer01\DotnetStandard\bin\Debug\netstandard2.1\DotnetStandardPractice.deps.json
+D:\Practice\Kimmer01\DotnetStandard\bin\Debug\netstandard2.1\DotnetStandardPractice.dll
+D:\Practice\Kimmer01\DotnetStandard\bin\Debug\netstandard2.1\DotnetStandardPractice.pdb
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.csproj.AssemblyReference.cache
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.AssemblyInfoInputs.cache
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.AssemblyInfo.cs
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.csproj.CoreCompileInputs.cache
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.dll
+D:\Practice\Kimmer01\DotnetStandard\obj\Debug\netstandard2.1\DotnetStandardPractice.pdb
